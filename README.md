@@ -1,2 +1,2 @@
 # dbconnector
-submodule repo for cheking out submodules functionalty.
+submodule repo for checking out submodules functionalty.
